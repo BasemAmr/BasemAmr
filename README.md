@@ -36,10 +36,6 @@ I have worked on several projects, including:
 
 ## Connect With Me
 
-- 📫 [Email Me](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-profile)
-
 Feel free to explore my repositories and get in touch! Let's collaborate and build something amazing together.
 
 ---
